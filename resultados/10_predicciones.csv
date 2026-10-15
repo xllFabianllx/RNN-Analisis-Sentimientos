@@ -1,0 +1,11 @@
+Sentimiento real,Sentimiento predicho,Probabilidad positiva
+Negativo,Negativo,0.015
+Positivo,Positivo,0.9893
+Positivo,Negativo,0.4622
+Negativo,Negativo,0.0916
+Positivo,Positivo,0.9767
+Positivo,Positivo,0.9057
+Positivo,Positivo,0.5231
+Negativo,Negativo,0.011
+Negativo,Positivo,0.9767
+Positivo,Negativo,0.1658
